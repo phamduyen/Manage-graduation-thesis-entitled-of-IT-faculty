@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/GVHD_XemChiTietPhucKhao.jsp=UTF-8
+encoding//WebContent/SV_CapNhatCaNha.jsp=UTF-8
+encoding//WebContent/css/style.css=UTF-8
+encoding//src/controller/DSPhanHoiServlet.java=UTF-8
+encoding//src/controller/GV_showDanhSachThongBaoServlet.java=UTF-8
+encoding//src/controller/Login.java=UTF-8
+encoding//src/controller/ShowCapNhatDiemServlet_GV.java=UTF-8
+encoding//src/controller/TaoThongBao_GVSevlet.java=UTF-8
+encoding//src/controller/XemChiTietPHServlet_GV.java=UTF-8
+encoding//src/model/bo/PhanHoiBO.java=UTF-8
+encoding//src/model/dao/BaseDAO.java=UTF-8
+encoding//src/model/dao/DataBase.java=UTF-8
+encoding//src/model/dao/PhanHoiDAO.java=UTF-8
+encoding//src/model/dao/ThongBaoDAO.java=UTF-8
+encoding//src/model/dao/TienDoDAO.java=UTF-8

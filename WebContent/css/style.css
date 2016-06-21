@@ -1,0 +1,96 @@
+body{
+    margin: 30px auto 0;
+    height: auto;
+}
+body h3{
+	color: blue;	
+	font-weight: bold;
+}
+body b{
+	color: red;
+}
+body p{
+	margin: 6px;
+}
+.title-centre{
+	text-align:center;
+	padding-bottom:10px;
+}
+.panel-primary{
+	border-color: white;
+}
+.header_TB{
+	font-weight: bold;
+}
+/* .header_contentLeft{
+	float: left;
+} */
+.header_contentRight{
+	float: right;
+}
+.well{
+	/* float:left; */
+	
+}
+.navbar{
+	background-color: #061647;
+}
+.content-centre{
+	height: 500px;
+}
+.image-btn{
+	width:25px; 
+	height:25px;
+	padding: 5px;
+	/* //margin-top:-26px;  */
+}
+.pagination{
+	margin-left: 42%;
+}
+#themGV{
+	margin-left: 86%;
+}
+#GV_Nhapbtn{
+	margin-left: 40%;
+}
+#GV_Huybtn{
+	margin-left: 30px;
+}
+#xuatDt{
+	margin-left: 86%;
+}
+#dsbv{
+	margin-left: 77%;
+}
+#DT_btnTao{
+	margin-left: 25%;
+}
+#DT_btnHuy{
+	margin-left: 10%;
+}
+.ui-buttonset { margin-top: 3em; }
+.tesxtArea{
+	width: 472px;
+	min-height: 100px;
+}
+#menu ul{
+list-style-type:none;
+padding:0px;
+margin:0px;
+}
+/* dòng lệnh này để căn cho menu nằm ngang*/
+#menu ul li{
+display:inline;
+}
+ 
+#menu ul a{
+text-decoration:none;
+width:100px;
+float:left;
+background-color: #337ab7;
+color:#fff;
+font-weight:"";
+text-align:center;
+line-height:20px;
+border-left:1px solid #fff;
+}				
